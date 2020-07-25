@@ -1,0 +1,32 @@
+h1{
+    color:brown; 
+ }
+ *{
+    border:solid; 
+ }
+ 
+ .header{
+     border :dashed;
+     background-color:skyblue ;
+     display :flex;
+     justify-content: space-between;
+
+ }
+ .grid{
+     display:flex;
+     justify-content: space-evenly;
+     flex-wrap: wrap;
+
+ }
+ .item{
+    border: dimgray;
+ }
+
+ .footer{
+     display: flex;
+     justify-content:flex-end;
+ }
+
+ p,h3{
+     text-align: center;
+ }
